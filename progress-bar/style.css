@@ -1,0 +1,15 @@
+.progress-bar{
+    height: 50px;
+    width: 200px;
+    background-color: aliceblue;
+}
+
+#status{
+    position: absolute;
+    width: 0px;
+    background-color: cornflowerblue;
+}
+
+button {
+    margin-top: 10px;
+}
